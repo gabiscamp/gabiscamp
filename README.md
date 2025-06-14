@@ -33,7 +33,6 @@ Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em rea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabiscamp&layout=compact&theme=dark" alt="Principais Linguagens da Gabriella" />
 </p>
 
-*As estatísticas e as linguagens mais usadas serão geradas automaticamente pelo GitHub Readme Stats. Certifique-se de que o username (`gabiscamp`) esteja correto.*
 
 ---
 
@@ -41,21 +40,20 @@ Sou uma desenvolvedora apaixonada por tecnologia e por transformar ideias em rea
 
 Aqui estão alguns dos projetos em que venho trabalhando ou que considero importantes:
 
-* **[conexao](https://github.com/gabiscamp/conexao)** - Um projeto **Java** que explora ... (Descreva brevemente o que o projeto faz e qual sua relevância)
-* **[reconhecimento-facial](https://github.com/gabiscamp/reconhecimento-facial)** - Desenvolvido com **HTML** e outras tecnologias, este projeto foca em ... (Descreva brevemente o que o projeto faz e qual sua relevância)
-* **[e-commerce](https://github.com/gabiscamp/e-commerce)** - Um projeto de **e-commerce** utilizando **CSS** para estilização e ... (Descreva brevemente o que o projeto faz e qual sua relevância)
-* *Adicione mais projetos seus aqui, seguindo o mesmo formato!*
+* **[conexao](https://github.com/gabiscamp/conexao)** - Um projeto **Java** que explora a conexão java com um MYSQL
+* **[reconhecimento-facial](https://github.com/gabiscamp/reconhecimento-facial)** - Desenvolvido com Python e outras tecnologias, este projeto foca em utilizar o reconhecimento facial como etapa mais rigorosa de segurança e o uso de tecnologia para gerenciar funcionários.
+* **[e-commerce](https://github.com/gabiscamp/e-commerce)** - Um projeto de **e-commerce** utilizando PHP como linguagem back-end para trazer funcionalidades e estrutura mais robusta.
 
 ---
 
 ### 📧 Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-campelo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielacampc@gmail.com)
 ---
 
 <p align="center">
-  Feito com ❤️ por Gabriella Scampini
+  Feito com ❤️ por Gabriela Campelo
 </p>
 
 <!--
