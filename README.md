@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-love.gif" width="300px" alt="GIF de um computador com coração" />
-  <h1>Olá! Eu sou a Gabriella! 👋</h1>
+  <h1>Olá! Eu sou a Gabriela! 👋</h1>
   <p>Entusiasta da tecnologia, sempre em busca de novos desafios e soluções inovadoras.</p>
 </div>
 
